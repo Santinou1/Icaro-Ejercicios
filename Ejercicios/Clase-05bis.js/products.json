@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Camiseta",
+    "categoria": "Ropa",
+    "precio": 20,
+    "stock": 10
+  },
+  {
+    "nombre": "Zapatos",
+    "categoria": "Calzado",
+    "precio": 50,
+    "stock": 5
+  },
+  {
+    "nombre": "Bolso",
+    "categoria": "Accesorios",
+    "precio": 30,
+    "stock": 3
+  },
+  {
+    "nombre": "Pantalón",
+    "categoria": "Ropa",
+    "precio": 40,
+    "stock": 8
+  },
+  {
+    "nombre": "Reloj",
+    "categoria": "Accesorios",
+    "precio": 100,
+    "stock": 2
+  }
+]
