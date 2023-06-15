@@ -1,3 +1,1 @@
-//01- Mostrar todos los productos del json
-//Este ejercicio tiene que mostrar todos los productos presentes en el archivo JSON.
-//{node 01}
+//01- Suma de números pares: Escribe una función llamada sumarPares que tome un array de números como argumento y devuelva la suma de todos los números pares en ese array.
