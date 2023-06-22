@@ -1,14 +1,5 @@
 [
-  {
-    "nombre": "Camisa",
-    "precio": 29.99
-  },
-  {
-    "nombre": "Pantalón",
-    "precio": 39.99
-  },
-  {
-    "nombre": "Zapatos",
-    "precio": 59.99
-  }
+  { "nombre": "Camisa", "precio": 40 },
+  { "nombre": "Zapatos", "precio": 59 },
+  { "nombre": "Gorra", "precio": 19 }
 ]
